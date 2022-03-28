@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MoviesBookingRecyclerView</string>
+    <string name="movie_title">The Movie Title</string>
+    <string name="movie_image">movie_image</string>
+    <string name="the_movie_title">The Movie Title</string>
+    <string name="starring">starring</string>
+    <string name="running_time">running time</string>
+    <string name="movie_description">movie_description</string>
+    <string name="booking_now">Booking Now</string>
+    <string name="book_now">Book Now</string>
+    <string name="ticket">ticket</string>
+</resources>
